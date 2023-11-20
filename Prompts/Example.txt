@@ -1,0 +1,1 @@
+Our company uses AI to generate powerpoint-style presentations. We want to implement a programmatic SEO strategy, basically writing blog posts that attract potential customers to our website by targeting common search keywords associated with our business.
